@@ -1,4 +1,4 @@
-![Logo](logomark-orange@2x.png)
+![Logo](logomark-orangex.png)
 
 # Работа с Git
 
